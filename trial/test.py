@@ -2,4 +2,4 @@
 
 for num in range(501):
 	print(num, end=' ')
-print()
+print("end")
