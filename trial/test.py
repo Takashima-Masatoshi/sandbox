@@ -1,5 +1,5 @@
 # -*- cording: utf-8 -*-
 
-for num in range(10):
-	print(num)
-
+for num in range(100):
+	print(num, end=' ')
+print()
