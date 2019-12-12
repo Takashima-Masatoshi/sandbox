@@ -1,5 +1,5 @@
 # -*- cording: utf-8 -*-
 
-for i in range(10):
-	print(i)
+for num in range(10):
+	print(num)
 
